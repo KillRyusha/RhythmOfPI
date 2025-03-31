@@ -202,11 +202,6 @@ Handles the initial game setup and environment configuration.
 
 ---
 
-## Contact
-For support or inquiries, email at [support@rhythmofpi.com](mailto:support@rhythmofpi.com).
-
----
-
 ## Acknowledgments
 - Suno AI for providing adaptive music technology.
 - Mathematics and π-inspired design enthusiasts for inspiring the core mechanics.
